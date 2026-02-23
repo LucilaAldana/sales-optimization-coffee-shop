@@ -1,6 +1,6 @@
 ### sales-optimization-coffee-shop
 
-# Global Income & Cost of Living Trends 2024 (USD)
+# Sales Optimization and Customer Behavior Analysis for Maven Roasters
 
 ## by Lucila Aldana Quiñonez | Data Analyst
 
