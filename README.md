@@ -1,4 +1,9 @@
-# sales-optimization-coffee-shop
+### sales-optimization-coffee-shop
+
+# Global Income & Cost of Living Trends 2024 (USD)
+
+## by Lucila Aldana Quiñonez | Data Analyst
+
 This project analyzes six months of transactional data (January–June 2023) from three New York City locations of Maven Roasters to identify sales drivers, customer purchasing patterns, and operational improvement opportunities.
 
 The objective was to uncover revenue trends, evaluate product and location performance, and develop data-driven recommendations to support inventory planning, staffing optimization, and marketing strategy.
