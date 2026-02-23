@@ -2,7 +2,7 @@
 
 # Sales Optimization and Customer Behavior Analysis for Maven Roasters
 
-## by Lucila Aldana Quiñonez | Data Analyst
+## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
 This project analyzes six months of transactional data (January–June 2023) from three New York City locations of Maven Roasters to identify sales drivers, customer purchasing patterns, and operational improvement opportunities.
 
